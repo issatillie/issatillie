@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Matilda Smets 🙌
 
 I am a seventeen-year-old full-stack web developer.
 
