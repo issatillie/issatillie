@@ -7,3 +7,8 @@ I am an eighteen-year-old full-stack web developer.
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwindcss,css,js,php,laravel,mysql,py,cs,cpp&theme=dark)](https://skillicons.dev)
 
+### GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=issatillie&theme=dark&hide_border=false)<br/>
+  
+[![](https://visitcount.itsvg.in/api?id=issatillie&icon=2&color=1)](https://visitcount.itsvg.in)
+
