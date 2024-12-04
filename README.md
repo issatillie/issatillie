@@ -11,7 +11,3 @@ I am an eighteen-year-old full-stack web developer.
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwindcss,css,js,php,laravel,mysql,py,cs,cpp&theme=dark)](https://skillicons.dev)
 
-![Matilda's GitHub stats](https://github-readme-stats.vercel.app/api?username=issatillie&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issatillie&layout=compact&theme=dark)
-
-
